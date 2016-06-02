@@ -7,6 +7,9 @@ You can also use this as a practical translator for tech conferences.
 ## Isomorphic
 Comes from a mathematical term **isomorphism**. Two objects are equal in form or shape if isomorphism exists between them. Kudos to whomever came up with that when isomorphic apps emerged. Dumbed down with term **universal**, to make it more understandable for the common folk. A welcome improvement ([thanks Michael Jackson](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.ckm0ema2p))
 
+## Idempotent
+Describes an operation or process that, when repeated, leaves a system in the same end state. For example, with POSIX tools, if you `rm -f README.md` the file `README.md` will be absent from the file system after you run this command, whether it was there before or not. This word is big in DevOps circles, good system provisioning scripts will leave the system in the desired state whether they start out running on a freshly installed system, or whether they have been run on a system that was provisioned with a previous version of the scripts.
+
 ## Idiomatic
 Writing software using very specific language-specific guidelines or functionalities. Useful for those trying to write Java code in JavaScript.
 
