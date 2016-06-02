@@ -19,5 +19,13 @@ Comes from a mathematical term **isomorphism**. Two objects are equal in form or
 Functional programming technique of wrapping on object (e.g function) in another to enhance the functionality. You can higher order anything and it's fun to say for the people who struggle with the _R_ sound. 
 
 ## Holistic
-Holistic approach to writing apps focuses on interdependence of components. Think of it as components mating to produce a new and improved functionality. 
+Holistic approach to writing apps focuses on interdependence of components. Think of it as components mating to produce a new and improved functionality.
 
+## Non-trivial
+Hard.
+
+## Order of Magnitude
+Ten-dollar word meaning "ten".
+
+## Orthogonal
+Fancy way of saying two things are un-related.
