@@ -5,7 +5,7 @@ You can also use this as a practical translator for tech conferences.
 
 
 ## Isomorphic
-Comes from a mathematical term **isomorphism**. Two objects are equal in form or shape if isomorphism exists between them. Kudos to whomever came up with that when isomorphic apps emerged. Dumbed down with term **universal**, to make it more understandable for the common folk. A welcome improvement.
+Comes from a mathematical term **isomorphism**. Two objects are equal in form or shape if isomorphism exists between them. Kudos to whomever came up with that when isomorphic apps emerged. Dumbed down with term **universal**, to make it more understandable for the common folk. A welcome improvement ([thanks Michael Jackson](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.ckm0ema2p))
 
 ## Idiomatic
 Writing software using very specific language-specific guidelines or functionalities. Useful for those trying to write Java code in JavaScript.
