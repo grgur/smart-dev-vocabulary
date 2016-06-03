@@ -22,4 +22,4 @@ Functional programming technique of wrapping on object (e.g function) in another
 Holistic approach to writing apps focuses on interdependence of components. Think of it as components mating to produce a new and improved functionality. 
 
 ## Pure (Functional)
-A pure function can't modify any external global variables, change environment (think printing or input, db) etc. It is guaranteed to return same value for an input every single time; i.e. the answer doesn't depend on anything else that inputs.
+A pure function can't modify any external global variables, change environment (think printing or input, db) etc. It is guaranteed to return same value for an input every single time; i.e. the answer doesn't depend on anything else than arguments.
