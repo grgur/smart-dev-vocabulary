@@ -4,7 +4,7 @@ This is a list of confusing terminology that will make you sound smart and your 
 You can also use this as a practical translator for tech conferences. 
 
 ## Agnostic
-When you don't really care what's going on around you. For example, device-agnostic apps should work on any smartphone out of the box. Don't confuse agnosticism for ignorance. 
+When you don't really care what's going on around you. For example, device-agnostic apps should work on any smartphone out of the box. Don't confuse agnosticism for ignorance.
 
 ## Idempotent
 Describes an operation or process that, when repeated, leaves a system in the same end state. For example, with POSIX tools, if you `rm -f README.md` the file `README.md` will be absent from the file system after you run this command, whether it was there before or not. This word is big in DevOps circles, good system provisioning scripts will leave the system in the desired state whether they start out running on a freshly installed system, or whether they have been run on a system that was provisioned with a previous version of the scripts.
@@ -21,3 +21,5 @@ Functional programming technique of wrapping on object (e.g function) in another
 ## Holistic
 Holistic approach to writing apps focuses on interdependence of components. Think of it as components mating to produce a new and improved functionality. 
 
+## Pure (Functional)
+A pure function can't modify any external global variables, change environment (think printing or input, db) etc. It is guaranteed to return same value for an input every single time; i.e. the answer doesn't depend on anything else than arguments.
